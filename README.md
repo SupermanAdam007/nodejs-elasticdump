@@ -1,5 +1,8 @@
-# elasticdump: Import and export tools for elasticsearch
-## version: 6.15.7
+# Simply install elasticdump in official nodejs image.
+## Current versions in Dockerfile
+
+### elasticdump: Import and export tools for elasticsearch
+#### version: 6.15.7
 
 Usage: elasticdump --input SOURCE --output DESTINATION [OPTIONS]
 
